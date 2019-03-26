@@ -1,0 +1,11 @@
+name: Cartilage
+type: theme
+base theme: stable
+screenshot: cartilage.jpg
+description: Cartilage is floppy bones.
+alt text:
+core: 8.x
+package: other
+hidden: false
+libraries:
+  - cartilage/global-css
